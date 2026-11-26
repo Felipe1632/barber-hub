@@ -17,7 +17,7 @@ export default function Cabecalho() {
             Categorias
           </Link>
           <Link href="/servicos/novo" className={styles.botaoDestaque}>
-            + Novo Serviço
+           Novo Serviço
           </Link>
           <Link href="/login" className={styles.link}>
             Entrar
